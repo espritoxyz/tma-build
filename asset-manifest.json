@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/tma-build/static/css/main.54a9e9de.css",
-    "main.js": "/tma-build/static/js/main.17b08690.js",
+    "main.css": "/tma-build/static/css/main.9c3df077.css",
+    "main.js": "/tma-build/static/js/main.63e9aac3.js",
     "static/js/453.14b23415.chunk.js": "/tma-build/static/js/453.14b23415.chunk.js",
     "static/media/axios.cjs": "/tma-build/static/media/axios.cd0a976556d6411f77a7.cjs",
     "static/media/arialroundedmtbold.ttf": "/tma-build/static/media/arialroundedmtbold.e0b4989b2095bff370be.ttf",
     "index.html": "/tma-build/index.html",
-    "main.54a9e9de.css.map": "/tma-build/static/css/main.54a9e9de.css.map",
-    "main.17b08690.js.map": "/tma-build/static/js/main.17b08690.js.map",
+    "main.9c3df077.css.map": "/tma-build/static/css/main.9c3df077.css.map",
+    "main.63e9aac3.js.map": "/tma-build/static/js/main.63e9aac3.js.map",
     "453.14b23415.chunk.js.map": "/tma-build/static/js/453.14b23415.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54a9e9de.css",
-    "static/js/main.17b08690.js"
+    "static/css/main.9c3df077.css",
+    "static/js/main.63e9aac3.js"
   ]
 }
