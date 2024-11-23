@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.css": "/tma-build/static/css/main.153dad4c.css",
-    "main.js": "/tma-build/static/js/main.bcb99dcb.js",
-    "static/js/453.14b23415.chunk.js": "/tma-build/static/js/453.14b23415.chunk.js",
-    "static/media/axios.cjs": "/tma-build/static/media/axios.cd0a976556d6411f77a7.cjs",
+    "main.css": "/tma-build/static/css/main.a1956aa1.css",
+    "main.js": "/tma-build/static/js/main.bfa119b0.js",
+    "static/js/453.d033bdbb.chunk.js": "/tma-build/static/js/453.d033bdbb.chunk.js",
+    "static/media/onboarding-6.png": "/tma-build/static/media/onboarding-6.e4ae7e9ccc488d0bbbdc.png",
+    "static/media/sf-ui-display-medium-58646be638f96.woff": "/tma-build/static/media/sf-ui-display-medium-58646be638f96.06adfd256f40f8baa0a0.woff",
+    "static/media/sf-ui-display-light-58646b33e0551.woff": "/tma-build/static/media/sf-ui-display-light-58646b33e0551.6f4c2292920ad02a3d61.woff",
+    "static/media/onboarding-4.png": "/tma-build/static/media/onboarding-4.82e18b28d7d1b3c13f4c.png",
+    "static/media/onboarding-2.png": "/tma-build/static/media/onboarding-2.bbb9fae126be1d507797.png",
+    "static/media/onboarding-5.png": "/tma-build/static/media/onboarding-5.8c2e25f011050ff6afca.png",
+    "static/media/onboarding-3.png": "/tma-build/static/media/onboarding-3.949202e1ce216db8c329.png",
+    "static/media/axios.cjs": "/tma-build/static/media/axios.693cfcc9e5223535a0dc.cjs",
     "static/media/arialroundedmtbold.ttf": "/tma-build/static/media/arialroundedmtbold.e0b4989b2095bff370be.ttf",
     "index.html": "/tma-build/index.html",
-    "main.153dad4c.css.map": "/tma-build/static/css/main.153dad4c.css.map",
-    "main.bcb99dcb.js.map": "/tma-build/static/js/main.bcb99dcb.js.map",
-    "453.14b23415.chunk.js.map": "/tma-build/static/js/453.14b23415.chunk.js.map"
+    "main.a1956aa1.css.map": "/tma-build/static/css/main.a1956aa1.css.map",
+    "main.bfa119b0.js.map": "/tma-build/static/js/main.bfa119b0.js.map",
+    "453.d033bdbb.chunk.js.map": "/tma-build/static/js/453.d033bdbb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.153dad4c.css",
-    "static/js/main.bcb99dcb.js"
+    "static/css/main.a1956aa1.css",
+    "static/js/main.bfa119b0.js"
   ]
 }
