@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tma-build/static/css/main.a1956aa1.css",
-    "main.js": "/tma-build/static/js/main.bfa119b0.js",
+    "main.css": "/tma-build/static/css/main.e96c3f16.css",
+    "main.js": "/tma-build/static/js/main.6aec0fce.js",
     "static/js/453.d033bdbb.chunk.js": "/tma-build/static/js/453.d033bdbb.chunk.js",
     "static/media/onboarding-6.png": "/tma-build/static/media/onboarding-6.e4ae7e9ccc488d0bbbdc.png",
     "static/media/sf-ui-display-medium-58646be638f96.woff": "/tma-build/static/media/sf-ui-display-medium-58646be638f96.06adfd256f40f8baa0a0.woff",
@@ -13,12 +13,12 @@
     "static/media/axios.cjs": "/tma-build/static/media/axios.693cfcc9e5223535a0dc.cjs",
     "static/media/arialroundedmtbold.ttf": "/tma-build/static/media/arialroundedmtbold.e0b4989b2095bff370be.ttf",
     "index.html": "/tma-build/index.html",
-    "main.a1956aa1.css.map": "/tma-build/static/css/main.a1956aa1.css.map",
-    "main.bfa119b0.js.map": "/tma-build/static/js/main.bfa119b0.js.map",
+    "main.e96c3f16.css.map": "/tma-build/static/css/main.e96c3f16.css.map",
+    "main.6aec0fce.js.map": "/tma-build/static/js/main.6aec0fce.js.map",
     "453.d033bdbb.chunk.js.map": "/tma-build/static/js/453.d033bdbb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1956aa1.css",
-    "static/js/main.bfa119b0.js"
+    "static/css/main.e96c3f16.css",
+    "static/js/main.6aec0fce.js"
   ]
 }
