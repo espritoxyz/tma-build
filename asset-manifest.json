@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tma-build/static/css/main.c3b061d6.css",
-    "main.js": "/tma-build/static/js/main.d5afb930.js",
+    "main.js": "/tma-build/static/js/main.56022227.js",
     "static/js/453.d033bdbb.chunk.js": "/tma-build/static/js/453.d033bdbb.chunk.js",
     "static/media/onboarding-6.png": "/tma-build/static/media/onboarding-6.e4ae7e9ccc488d0bbbdc.png",
     "static/media/onboarding-4.png": "/tma-build/static/media/onboarding-4.82e18b28d7d1b3c13f4c.png",
@@ -12,11 +12,11 @@
     "static/media/arialroundedmtbold.ttf": "/tma-build/static/media/arialroundedmtbold.e0b4989b2095bff370be.ttf",
     "index.html": "/tma-build/index.html",
     "main.c3b061d6.css.map": "/tma-build/static/css/main.c3b061d6.css.map",
-    "main.d5afb930.js.map": "/tma-build/static/js/main.d5afb930.js.map",
+    "main.56022227.js.map": "/tma-build/static/js/main.56022227.js.map",
     "453.d033bdbb.chunk.js.map": "/tma-build/static/js/453.d033bdbb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3b061d6.css",
-    "static/js/main.d5afb930.js"
+    "static/js/main.56022227.js"
   ]
 }
